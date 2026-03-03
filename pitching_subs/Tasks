@@ -1,0 +1,11 @@
+Things To Do:
+
+1. Scrape Manager Information
+2. Collect Daily MLB Rosters
+3. Collect Player Contract Info (AAV, years)
+3. Create available bullpen column
+4. Create Stuff+ model for determinig player pitch quality
+5. Create Player Pitches Column
+6. Create Player Pitches Stats column (avg velo, avg spin rate, avg horz break, etc.)
+7. Create Model to Project Likelihood of pitching changing
+8. Create Model of likely Pitcher subsitute
