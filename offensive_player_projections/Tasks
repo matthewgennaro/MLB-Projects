@@ -17,7 +17,7 @@ Things To Do:
 
 Future Things to Collect and Include:
 1. Injury History
-2. MiLB player stats (so that way can model players that haven't played in the mlb yet)
+2. MiLB player stats (so that way I can model players that haven't played in the mlb yet)
 3. Collect foreign leagues stats/data
 4. Include live data to update the projections as season progresses
 5. develop data warehouse to store data and projects, to make easier to pipeline to non R shiny dashboards
