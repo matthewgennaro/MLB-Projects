@@ -1,0 +1,23 @@
+Things To Do:
+
+1. Scrape data from mlb stats api (complete)
+2. Scrape data from baseballsavant (complete)
+3. Clean data from mlb stats api and baseball savant (complete)
+4. Create source file of functions used to scrape data for easier future usage (complete)
+5. Calculate player acceleration score using time to feet interval data collected from baseball savant (complete)
+6. Calculate Spray Angle (complete)
+7. Visual Performance on BABIP based by RHB vs LHB and by spray bin (extreme pull, pull, center, push, extreme push) (complete)
+8. Model expected results of balls batted in play (Complete)
+9. Calculate Batter Eye Scores (measuring batter's ability to gain or lose pitches) (in progress)
+10. Create Aging curve
+11. Compute Similarities to other players
+12. Create Projection Model
+13. Create Shiny dashboard
+14. Create power bi dashboard
+
+Future Things to Collect and Include:
+1. Injury History
+2. MiLB player stats (so that way can model players that haven't played in the mlb yet)
+3. Collect foreign leagues stats/data
+4. Include live data to update the projections as season progresses
+5. develop data warehouse to store data and projects, to make easier to pipeline to non R shiny dashboards
