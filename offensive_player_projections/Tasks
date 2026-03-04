@@ -9,6 +9,9 @@ Things To Do:
 7. Visual Performance on BABIP based by RHB vs LHB and by spray bin (extreme pull, pull, center, push, extreme push) (complete)
 8. Model expected results of balls batted in play (Complete)
 9. Calculate Batter Eye Scores (measuring batter's ability to gain or lose pitches) (in progress)
+    i. Strike Probability Model
+    ii. Run Expectancy
+    iii. Batter Eye
 10. Create Aging curve
 11. Compute Similarities to other players - maybe
 12. Create Projection Model
