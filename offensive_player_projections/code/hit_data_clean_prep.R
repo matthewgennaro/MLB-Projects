@@ -39,7 +39,7 @@ for(s in seasons){
                        "pitcher_id", "pitcher_full_name", "pitch_hand_code",
                        "splits_men_on_base", "batting_team", "fielding_team", 
                        "details_type_code","details_type_description", 
-                       "pitch_coordinates_x", "pitch_coordinates_y",
+                       "pitch_coordinates_pX", "pitch_coordinates_pZ",
                        "pitch_start_speed", "pitch_end_speed", "pitch_zone",
                        "pitch_break_length", "pitch_break_angle", 
                        "pitch_break_y", "pitch_spin_rate",
