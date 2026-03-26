@@ -8,13 +8,13 @@ Things To Do:
 6. Calculate Spray Angle (complete)
 7. Visual Performance on BABIP based by RHB vs LHB and by spray bin (extreme pull, pull, center, push, extreme push) (complete)
 8. Model expected results of balls batted in play (Complete)
-9. Calculate Batter Eye Scores (measuring batter's ability to gain or lose pitches) (in progress)
+9. Calculate Batter Eye Scores (measuring batter's ability to gain or lose pitches) (Complete)
     i. Strike Probability Model
     ii. Run Expectancy
     iii. Batter Eye
-10. Create Aging curve
-11. Compute Similarities to other players - maybe
-12. Create Projection Model
+10. Create Aging curve (complete)
+11. Compute Similarities to other players - scrap for now, include in future things
+12. Create Projection Model (in progress)
 13. Create Shiny dashboard
 14. Create power bi dashboard
 
